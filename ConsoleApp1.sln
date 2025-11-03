@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lucene-pdf-search", "ConsoleApp1\lucene-pdf-search.csproj", "{51E07F46-5DC9-F905-A928-15A2A5F3C5DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E07F46-5DC9-F905-A928-15A2A5F3C5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E07F46-5DC9-F905-A928-15A2A5F3C5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E07F46-5DC9-F905-A928-15A2A5F3C5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E07F46-5DC9-F905-A928-15A2A5F3C5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D33B3D-41EA-4AD1-9D7C-014F9B43BB03}
+	EndGlobalSection
+EndGlobal
